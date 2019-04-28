@@ -4,7 +4,8 @@
 Java脚本，能在只有matlab runtime的环境下运行matlab命令
 
 #### 软件架构
-软件架构说明
+matlab 2018a
+jdk 1.8  64位
 
 
 #### 安装教程
